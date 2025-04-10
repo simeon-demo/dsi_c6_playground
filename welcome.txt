@@ -1,7 +1,23 @@
 Hello to DSI Cohort 6
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cb809e6b75a18aeb1bf8c1dc2dcc45f480dd0894
 
+
+welcome to GIT
+
+Hey Everyone!!! - Vinod
+
+
+I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
+<<<<<<< HEAD
 =======
 Hey Everyone!!!
 >>>>>>> f9b9f64e5b775e7ba69d7076e703e54cb6237d3f
+=======
+
+
+Simeon's changes
+>>>>>>> cb809e6b75a18aeb1bf8c1dc2dcc45f480dd0894
