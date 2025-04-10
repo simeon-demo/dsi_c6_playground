@@ -1,3 +1,7 @@
 Hello to DSI Cohort 6
+<<<<<<< HEAD
 
 This is Cristian Cordova!
+=======
+Hey Everyone!!!
+>>>>>>> f9b9f64e5b775e7ba69d7076e703e54cb6237d3f
