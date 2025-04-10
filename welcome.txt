@@ -1,1 +1,2 @@
 Hello to DSI Cohort 6
+I'm practicing Git
