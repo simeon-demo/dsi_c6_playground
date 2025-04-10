@@ -1,4 +1,13 @@
 Hello to DSI Cohort 6
+<<<<<<< HEAD
+welcome to GIT
+=======
+<<<<<<< HEAD
+Hey Everyone!!! - Vinod
+||||||| 66a475d
+=======
 
+>>>>>>> 8de4491fac3c3d49f385c2097c708d3502198d5e
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
+>>>>>>> ff280eac30813caf4d44712c0f1202b120e42265
