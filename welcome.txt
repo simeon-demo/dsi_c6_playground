@@ -1,18 +1,26 @@
 Hello to DSI Cohort 6
-
-
-welcome to GIT
-
+<<<<<<< HEAD
 Hey Everyone!!! - Vinod
+||||||| 66a475d
+=======
 
-
+<<<<<<< HEAD
+Woah! This is amazing!
+=======
+>>>>>>> ff280eac30813caf4d44712c0f1202b120e42265
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
+>>>>>>> ff280eac30813caf4d44712c0f1202b120e42265
 
 <<<<<<< HEAD
 This is Faiz Shaikh
 
 =======
 
+<<<<<<< HEAD
 Simeon's changes
 >>>>>>> cb809e6b75a18aeb1bf8c1dc2dcc45f480dd0894
+=======
+Buy SPY puts on April 1 > Sell EOD April 7
+Buy QQQ calls on April 8 > Sell EOD April 9
+>>>>>>> e400e0ac9643a04a11d3de5f74d3c20954fd804a
