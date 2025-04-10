@@ -1,18 +1,30 @@
 Hello to DSI Cohort 6
 
+I'm practicing Git
+
+muahahahahahahahahaha
+
 
 welcome to GIT
 
 Hey Everyone!!! - Vinod
 
+ 
 trying again to write something here
+ 
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
-<<<<<<< HEAD
+ 
 I am learning git bash, be patient!
-=======
+ 
 
+Test line from Bishu
+I don't know what any of this is! Learning tho
+ 
+Hello, this is Elizaveta!
 
 Simeon's changes
 muahahahahahahahahaha
->>>>>>> 9fe6c74ea26e5aa24879e9ce4c883c28b60ea943
+100th try to add a line J
+
+ 
