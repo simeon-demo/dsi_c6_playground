@@ -2,3 +2,5 @@ Hello to DSI Cohort 6
 
 This is Cristian Cordova!
 Adding this comment to the file
+
+Hello, this is Elizaveta!
