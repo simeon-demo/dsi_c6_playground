@@ -1,5 +1,13 @@
 Hello to DSI Cohort 6
+<<<<<<< HEAD
+Hey Everyone!!! - Vinod
+||||||| 66a475d
+=======
 
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
-This is Lakshmi , trying to survive the class
+<<<<<<< HEAD
+This is Lakshmi , surviving the class one day at a time
+=======
+>>>>>>> ff280eac30813caf4d44712c0f1202b120e42265
+>>>>>>> 8de4491fac3c3d49f385c2097c708d3502198d5e
