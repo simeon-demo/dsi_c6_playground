@@ -2,3 +2,5 @@ Hello to DSI Cohort 6
 
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
+
+This is Olalekan Oni. My aim is to become a Computer Vision Engineer.
