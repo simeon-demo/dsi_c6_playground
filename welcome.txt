@@ -8,18 +8,35 @@ welcome to GIT
 
 Hey Everyone!!! - Vinod
 
+test-branch
+
+Resolving Merge Conflicts... This is Puneet!
+
+main
 
 Woah! This is amazing!
+Anime
+
 
 
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
 
+test-branch
+
+
+MinnovaNinja is adding this message to all <3 
+Resolving all conflictsssssssssssss
+
+Hi hi Cristian. This is KP. 
+main
 Hey Everyone!!!
 Simeon's changes
 Buy SPY puts on April 1 > Sell EOD April 7
+
 Buy QQQ calls on April 8 > Sell EOD April 9
 
+test-branch
 
 
 Hello, this is Elizaveta!
@@ -31,3 +48,8 @@ Simeon's changes
 Hi!
 
 Hi! - Imra 
+
+This is Antonio M. Lancuentra!
+
+
+main
