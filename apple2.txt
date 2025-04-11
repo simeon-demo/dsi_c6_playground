@@ -4,7 +4,11 @@ this edit was made in the browser
 
 and this edit was made locally
 
+<<<<<<< HEAD
 
 
 
 this is another edit, but trying to get a conflict
+=======
+and there is another browser based edit
+>>>>>>> 31f9822e724156ac18921a34091fbb666fd96b26
