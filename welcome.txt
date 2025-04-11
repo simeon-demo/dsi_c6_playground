@@ -1,52 +1,12 @@
 Hello to DSI Cohort 6
-I'm practicing Git, making changes
-
-hello Everyone. Happy to learn together - bose
-
-
-
-welcome to GIT
-
-Hey Everyone!!! - Vinod
-
-test-branch
-
-Resolving Merge Conflicts... This is Puneet!
-
-main
-
-Woah! This is amazing!
-Anime
-
-
-I'm practicing Git, making changes
-
-This is Imra. Changing this line. 
-
-hello Everyone. Happy to learn together - bose
-
-
-
-welcome to GIT
-
-Hey Everyone!!! - Vinod
-
-test-branch
-
-Resolving Merge Conflicts... This is Puneet!
-
-main
-
-Woah! This is amazing!
-Anime
-
- main
 
 
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
 
-test-branch
+New infomration added here to be merged as below:
+Today is April 10 2025. Based in Toronto. 
+
 
 
 MinnovaNinja is adding this message to all <3 
@@ -78,10 +38,4 @@ I am with Simeon now
 
 Antonio adds a second line. Hello everyone
 
-=======
-Antonio adds a second line. Hello everyone
 
-
-Hello Vrushali here.
- main
->>>>>>> 7f9c76577fdb3ba198345baccbe2e4f9a4781c84
