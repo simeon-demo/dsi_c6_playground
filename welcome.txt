@@ -1,6 +1,8 @@
 Hello to DSI Cohort 6
 I'm practicing Git, making changes
 
+This is Imra. Changing this line. 
+
 hello Everyone. Happy to learn together - bose
 
 
@@ -53,3 +55,4 @@ Hi! - Imra
 This is Antonio M. Lancuentra!
 Antonio adds a second line. Hello everyone
 
+main
