@@ -14,8 +14,19 @@ Woah! This is amazing!
 
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
+<<<<<<< HEAD
 Hey Everyone!!!
 Simeon's changes
 Buy SPY puts on April 1 > Sell EOD April 7
 Buy QQQ calls on April 8 > Sell EOD April 9
 
+=======
+
+Hello, this is Elizaveta!
+
+Hello, this is Puneet!
+
+Simeon's changes
+
+Hi!
+>>>>>>> a27edb2756479ec7f045d42e337879800a3966c4
