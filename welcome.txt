@@ -9,9 +9,6 @@ welcome to GIT
 Hey Everyone!!! - Vinod
 
 
-Woah! This is amazing!
-
-
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
 
@@ -29,3 +26,5 @@ Hello, this is Puneet!
 Simeon's changes
 
 Hi!
+
+Hello, this is Lindsey making new changes. 
