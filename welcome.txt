@@ -12,6 +12,7 @@ I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
  
 I am learning git bash, be patient!
+whyyy!
  
 
 Test line from Bishu
@@ -21,7 +22,7 @@ Hello, this is Elizaveta!
 
 Simeon's changes
 muahahahahahahahahaha
-100th try to add a line J
+100th try to add a line Jj
  
  
 Woah! This is amazing!
