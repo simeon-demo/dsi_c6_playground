@@ -8,3 +8,4 @@ def my_func(text: str = 'Hello there') -> None:
     print(text)
 
 ```
+test
