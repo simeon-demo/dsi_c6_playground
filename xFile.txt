@@ -1,4 +1,13 @@
 Testing with xFile.txt
 
+<<<<<<< HEAD
 Xavier
 Hello Testing123
+=======
+branch2
+Xavier
+
+Xavier
+Hello Testing123
+main
+>>>>>>> 7f9c76577fdb3ba198345baccbe2e4f9a4781c84
