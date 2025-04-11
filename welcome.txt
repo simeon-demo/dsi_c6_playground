@@ -1,39 +1,54 @@
 Hello to DSI Cohort 6
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> cb809e6b75a18aeb1bf8c1dc2dcc45f480dd0894
-
 
 welcome to GIT
 
 =======
->>>>>>> e400e0ac9643a04a11d3de5f74d3c20954fd804a
 Hey Everyone!!! - Vinod
 ||||||| 66a475d
 =======
 
-<<<<<<< HEAD
+
+Woah! This is amazing!
+
+=======
+
 Woah! This is amazing!
 =======
->>>>>>> ff280eac30813caf4d44712c0f1202b120e42265
+
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
 Hey Everyone!!!
->>>>>>> f9b9f64e5b775e7ba69d7076e703e54cb6237d3f
+
 =======
 
+
+This is Victor Lopez, learning Git and GitHub!
+
+Hey Everyone!!!
+
+welcome to GIT
+
+Hey Everyone!!! - Vinod
+
+I am definitely awesome developer by all counts!!
+This is Cristian Cordova!
+
+I don't know what any of this is! Learning tho
 
 Simeon's changes
->>>>>>> cb809e6b75a18aeb1bf8c1dc2dcc45f480dd0894
-=======
->>>>>>> ff280eac30813caf4d44712c0f1202b120e42265
+muahahahahahahahahaha
 
+Hello, this is Elizaveta!
+
+Simeon's changes
+=======
+
+Simeon's changes
+
+=======
 
 Buy SPY puts on April 1 > Sell EOD April 7
 Buy QQQ calls on April 8 > Sell EOD April 9
->>>>>>> e400e0ac9643a04a11d3de5f74d3c20954fd804a
+
