@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+test-branch
+Hello guys
+
+Hello guys! This is Imra. 
+=======
 branch2
 Hello guys! This is Imra. 
 
@@ -6,4 +12,5 @@ Hello guys
 
 Hello guys! This is Imra. 
 main
+>>>>>>> 7f9c76577fdb3ba198345baccbe2e4f9a4781c84
 main
