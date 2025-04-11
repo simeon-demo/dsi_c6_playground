@@ -3,15 +3,10 @@ Hello to DSI Cohort 6
 
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
-<<<<<<< HEAD
->>>>>>> ff280eac30813caf4d44712c0f1202b120e42265
-
 
 New infomration added here to be merged as below:
 Today is April 10 2025. Based in Toronto. 
-=======
 
-test-branch
 
 
 MinnovaNinja is adding this message to all <3 
@@ -43,11 +38,4 @@ I am with Simeon now
 
 Antonio adds a second line. Hello everyone
 
-=======
-Antonio adds a second line. Hello everyone
 
-
-Hello Vrushali here.
- main
->>>>>>> 7f9c76577fdb3ba198345baccbe2e4f9a4781c84
->>>>>>> 50138b861c429adc5caa61a17869ea3ec1034604
