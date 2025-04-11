@@ -1,1 +1,3 @@
-Hello the class!
+### Hello the class ###
+
+Hello classmate!
