@@ -1,4 +1,5 @@
 Hello to DSI Cohort 6
+<<<<<<< HEAD
 welcome to GIT
 Hey Everyone!!! - Vinod
 I am definitely awesome developer by all counts!!
@@ -33,3 +34,13 @@ Buy SPY puts on April 1 > Sell EOD April 7
 Buy QQQ calls on April 8 > Sell EOD April 9
 
 >>>>>>> 9475c434dbdaaf626738229e56ffd4e3e9827de5
+=======
+
+hello Everyone. Happy to learn together - bose
+
+
+
+welcome to GIT
+
+Hey Everyone!!! - Vinod
+>>>>>>> 94ab24906ba5cc2831cbd50848cfe9c256ceb0c3
