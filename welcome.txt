@@ -15,3 +15,4 @@ This is Cristian Cordova!
 
 Buy SPY puts on April 1 > Sell EOD April 7
 Buy QQQ calls on April 8 > Sell EOD April 9
+I am confused!! Is it the right file to edit?
