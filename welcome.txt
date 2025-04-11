@@ -1,10 +1,3 @@
-Hello to DSI Cohort 6
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> cb809e6b75a18aeb1bf8c1dc2dcc45f480dd0894
-
 
 welcome to GIT
 
@@ -43,3 +36,6 @@ Buy SPY puts on April 1 > Sell EOD April 7
 Buy QQQ calls on April 8 > Sell EOD April 9
 >>>>>>> e400e0ac9643a04a11d3de5f74d3c20954fd804a
 >>>>>>> 018689a17c6743eb690fa489c8651943327c2065
+=======
+hello Everyone. Happy to learn together - bose
+>>>>>>> d3000af54a8caee8259478a80597d26a761bd6be
