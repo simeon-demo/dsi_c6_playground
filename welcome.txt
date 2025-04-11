@@ -1,4 +1,8 @@
 Hello to DSI Cohort 6
 Hellow to dsi-6 from Anup
+<<<<<<< HEAD
 
 Hello!
+=======
+Just adding something more - Anup
+>>>>>>> c258782de1563958c9d5ded8b5f9a8b98438fbbd
