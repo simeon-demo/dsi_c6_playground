@@ -13,6 +13,8 @@ This is Cristian Cordova!
  
 I am learning git bash, be patient!
 whyyy!
+
+...... this is jenn .....
  
 
 Test line from Bishu
@@ -36,6 +38,39 @@ Simeon's changes
  
 
 
+welcome to GIT
+Hey Everyone!!! - Vinod
+I am definitely awesome developer by all counts!!
+This is Cristian Cordova!
+Hello, this is Ian !
+
+welcome to GIT
+
+Hey Everyone!!! - Vinod
+
+Resolving Merge Conflicts... This is Puneet!
+
+
+Woah! This is amazing!
+Anime
+
+
+
+I am definitely awesome developer by all counts!!
+This is Cristian Cordova!
+
+
+MinnovaNinja is adding this message to all <3 
+Resolving all conflictsssssssssssss
+
+Hi hi Cristian. This is KP. 
+Hey Everyone!!!
+Simeon's changes
 Buy SPY puts on April 1 > Sell EOD April 7
+
 Buy QQQ calls on April 8 > Sell EOD April 9
+ 
+
+This is Antonio M. Lancuentra!
+
  
