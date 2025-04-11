@@ -1,49 +1,4 @@
 Hello to DSI Cohort 6
-<<<<<<< HEAD
-=======
-I'm practicing Git, making changes
-
-hello Everyone. Happy to learn together - bose
-
-
-
-welcome to GIT
-
-Hey Everyone!!! - Vinod
-
-test-branch
-
-Resolving Merge Conflicts... This is Puneet!
-
-main
-
-Woah! This is amazing!
-Anime
-
-
-I'm practicing Git, making changes
-
-This is Imra. Changing this line. 
-
-hello Everyone. Happy to learn together - bose
-
-
-
-welcome to GIT
-
-Hey Everyone!!! - Vinod
-
-test-branch
-
-Resolving Merge Conflicts... This is Puneet!
-
-main
-
-Woah! This is amazing!
-Anime
-
- main
->>>>>>> 50138b861c429adc5caa61a17869ea3ec1034604
 
 
 I am definitely awesome developer by all counts!!
