@@ -5,7 +5,7 @@ I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
 <<<<<<< HEAD
 
-Veronika test again
+Veronika test again *test #3*
 =======
 Hello, this is Ian !
 
