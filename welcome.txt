@@ -1,16 +1,20 @@
 Hello to DSI Cohort 6
-
-I'm practicing Git
-
-muahahahahahahahahaha
-
+welcome to GIT
+Hey Everyone!!! - Vinod
+I am definitely awesome developer by all counts!!
+This is Cristian Cordova!
+Hello, this is Ian !
 
 welcome to GIT
 
 Hey Everyone!!! - Vinod
 
+Woah! This is amazing!
+
+
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 This is Lakshmi , surviving the class one day at a time
@@ -25,7 +29,11 @@ I don't know what any of this is! Learning tho
 =======
 Hello, this is Elizaveta!
 
+=======
+Hey Everyone!!!
+>>>>>>> 0f9db8d22afb0e90d5eed92e1d8287d415b0f0cf
 Simeon's changes
-muahahahahahahahahaha
+Buy SPY puts on April 1 > Sell EOD April 7
+Buy QQQ calls on April 8 > Sell EOD April 9
 
 >>>>>>> a612548ed8ad8fd030d8ce11f27ae8bdc4f28c28
