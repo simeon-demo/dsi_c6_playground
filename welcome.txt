@@ -1,5 +1,9 @@
 Hello to DSI Cohort 6
  
+
+welcome to GIT
+
+ 
 Hey Everyone!!! - Vinod
  
 trying again to write something here
@@ -24,6 +28,10 @@ Woah! This is amazing!
  
 I am definitely awesome developer by all counts!!
 This is Cristian Cordova!
+ 
+ 
+
+Simeon's changes
  
 
 
