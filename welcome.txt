@@ -1,5 +1,51 @@
 Hello to DSI Cohort 6
 
+ 
+
+welcome to GIT
+
+ 
+Hey Everyone!!! - Vinod
+ 
+trying again to write something here
+ 
+I am definitely awesome developer by all counts!!
+This is Cristian Cordova!
+ 
+I am learning git bash, be patient!
+whyyy!
+
+...... this is jenn .....
+ 
+
+Test line from Bishu
+I don't know what any of this is! Learning tho
+ 
+Hello, this is Elizaveta!
+
+Simeon's changes
+muahahahahahahahahaha
+this is jenn writing a line
+ 
+ 
+Woah! This is amazing!
+ 
+I am definitely awesome developer by all counts!!
+This is Cristian Cordova!
+ 
+ 
+
+Simeon's changes
+ 
+
+
+welcome to GIT
+Hey Everyone!!! - Vinod
+I am definitely awesome developer by all counts!!
+This is Cristian Cordova!
+Hello, this is Ian !
+
+
 hello Everyone. Happy to learn together - bose
 
 
@@ -27,6 +73,7 @@ Simeon's changes
 Buy SPY puts on April 1 > Sell EOD April 7
 
 Buy QQQ calls on April 8 > Sell EOD April 9
+ 
 
 test-branch
 
